@@ -1,0 +1,13 @@
+# cache files
+*.pyc
+__pycache__/
+
+# virtual environment
+venv/
+
+# IDE specific files
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
